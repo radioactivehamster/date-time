@@ -1,0 +1,12 @@
+{
+  "name": "@radioactivehamster/date-time",
+  "version": "0.0.0",
+  "description": "An ISO8601 extended & IETF complient date-time generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Benner <james.benner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
