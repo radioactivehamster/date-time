@@ -4,3 +4,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 0.1.0 - 2015-05-26
 * Initial release
+
+## 0.1.1 - 2015-05-26
+* Added README
