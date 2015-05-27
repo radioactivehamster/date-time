@@ -7,3 +7,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 0.1.1 - 2015-05-26
 * Added README
+
+## 0.1.2 - 2015-05-26
+* Published to npm, updated README

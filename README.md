@@ -2,6 +2,12 @@
 An ISO 8601 extended &amp; IETF compliant UTC (Zulu) timestamp generator.
 
 
+### Installation
+
+```sh
+npm install --save @radioactivehamster/date-time
+```
+
 ### Usage
 
 ```js
