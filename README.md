@@ -1,7 +1,7 @@
 # date-time
-> An ISO 8601 extended &amp; IETF compliant UTC (Zulu) timestamp generator.
+> An ISO 8601 extended & IETF compliant UTC (Zulu) timestamp generator.
 
-[![GitHub license][LICENSE BADGE]][LICENSE PAGE] [![Build Status][BUILD BADGE]][BUILD PAGE]
+[![npm (scoped)][NPM VERSION BADGE]][NPM PAGE] [![GitHub license][LICENSE BADGE]][LICENSE PAGE] [![Build Status][BUILD BADGE]][BUILD PAGE]
 
 ### Installation
 
@@ -33,3 +33,5 @@ The MIT License (Expat). See the [license file](LICENSE) for details.
 [BUILD PAGE]: https://travis-ci.org/radioactivehamster/date-time
 [LICENSE BADGE]: https://img.shields.io/github/license/radioactivehamster/date-time.svg
 [LICENSE PAGE]: https://github.com/radioactivehamster/date-time/blob/master/LICENSE
+[NPM PAGE]: https://www.npmjs.com/package/@radioactivehamster/date-time
+[NPM VERSION BADGE]: https://img.shields.io/npm/v/@radioactivehamster/date-time.svg
