@@ -1,6 +1,6 @@
 {
   "name": "@radioactivehamster/date-time",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An ISO 8601 extended & IETF compliant UTC (Zulu) timestamp generator.",
   "main": "lib/index.js",
   "repository": {
