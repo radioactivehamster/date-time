@@ -1,26 +1,29 @@
-# date-time
+@radioactivehamster/date-time
+=============================
 > An ISO 8601 extended & IETF compliant UTC (Zulu) timestamp generator.
 
 [![npm (scoped)][NPM VERSION BADGE]][NPM PAGE] [![GitHub license][LICENSE BADGE]][LICENSE PAGE] [![Build Status][BUILD BADGE]][BUILD PAGE]
 
-### Installation
-
+Installation
+------------
 ```sh
 npm install --save @radioactivehamster/date-time
 ```
 
-### Usage
-
+Usage
+-----
 ```js
-var dateTime = require('date-time');
-var timestamp = dateTime(); // > "2015-05-27T04:06:41Z"
+const dateTime = require('@radioactivehamster/date-time');
+
+dateTime(); // > "2017-08-13T22:09:20Z"
 ```
 
 Optionally you can seed the function with a `Date` object.
 
 ```js
-var dateTime = require('date-time');
-var timestamp = dateTime(new Date()); // > "2015-05-27T04:06:41Z"
+const dateTime = require('@radioactivehamster/date-time');
+
+dateTime(new Date()); // > "2017-08-13T22:09:20Z"
 ```
 
 Easy-peasy mac-n-cheesy!
