@@ -7,7 +7,7 @@
 Installation
 ------------
 ```sh
-npm install --save @radioactivehamster/date-time
+$ npm install --save @radioactivehamster/date-time
 ```
 
 Usage
