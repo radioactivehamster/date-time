@@ -26,7 +26,7 @@ const dateTime = require('@radioactivehamster/date-time');
 dateTime(new Date()); // > "2017-08-13T22:09:20Z"
 ```
 
-Easy-peasy mac-n-cheesy!
+:tada: Easy-peasy mac-n-cheesy!
 
 License
 -------
