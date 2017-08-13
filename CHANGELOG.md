@@ -1,31 +1,49 @@
-# Change Log
-
+Changelog
+=========
 All notable changes to this project will be documented in this file.
-This project adheres to [Semantic Versioning](http://semver.org/).
 
-## 0.1.3 - 2016-02-17
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+0.1.4 - 2017-08-13
+------------------
 ### Added
-- Added LICENSE file.
+- Added `npm` lockfile.
 
 ### Changed
-- Updated README.md.
-- Reformatted CHANGELOG.md.
+- Reformatted `CHANGELOG.md`.
 
-## 0.1.2 - 2015-05-26
+### Fixed
+- Fixed install info in the readme.
 
+[0.1.3] - 2016-02-17
+--------------------
 ### Added
-- Published to npm.
+- Added `LICENSE` file.
 
 ### Changed
-- Updated README.md.
+- Updated `README.md`.
+- Reformatted `CHANGELOG.md`.
 
-## 0.1.1 - 2015-05-26
-
+[0.1.2] - 2015-05-26
+--------------------
 ### Added
-- Added README.md.
+- Published to `npm`.
 
-## 0.1.0 - 2015-05-26
+### Changed
+- Updated `README.md`.
 
+[0.1.1] - 2015-05-26
+--------------------
 ### Added
-- Initial release
+- Added `README.md`.
+
+0.1.0 - 2015-05-26
+------------------
+### Added
+- Initial release.
+
+[0.1.4]: https://github.com/radioactivehamster/date-time/compare/0.1.3...0.1.4
+[0.1.3]: https://github.com/radioactivehamster/date-time/compare/0.1.2...0.1.3
+[0.1.2]: https://github.com/radioactivehamster/date-time/compare/0.1.1...0.1.2
+[0.1.1]: https://github.com/radioactivehamster/date-time/compare/0.1.0...0.1.1
